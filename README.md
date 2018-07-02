@@ -1,4 +1,4 @@
-[Android Open Source Cypher Project]
+[Android Open Source Project]
 ====================================
 
 Download the Source
@@ -11,7 +11,7 @@ Initializing Repository
 
 Initiate core trees without any device/kernel/vendor:
 
-    $ repo init -u https://github.com/CypherOS/platform_manifest.git -b audition/oreo-release
+    $ repo init -u https://github.com/platform_manifest.git -b audition/oreo-release
 
 Sync the repository:
 
